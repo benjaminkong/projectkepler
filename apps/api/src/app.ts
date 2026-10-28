@@ -1,7 +1,6 @@
 import { existsSync } from "node:fs";
 import cookie from "@fastify/cookie";
 import multipart from "@fastify/multipart";
-import fastifyStatic from "@fastify/static";
 import Fastify from "fastify";
 import { WEB_DIST } from "./env";
 import { authConfigFromEnv, authPlugin, type AuthConfig } from "./auth/saml";
@@ -31,8 +30,11 @@ export async function buildApp({ auth = authConfigFromEnv() }: { auth?: AuthConf
   await app.register(transactionRoutes);
 
   // Production: serve the built Vue app, and index.html for any non-API path (client-side routes).
-  const serveWeb = WEB_DIST && existsSync(WEB_DIST);
+  // Not on Vercel, whose CDN serves the app. Loaded only when needed: @fastify/static require()s an
+  // ES-module-only package, which Vercel's function runtime can't load.
+  const serveWeb = !process.env.VERCEL && !!WEB_DIST && existsSync(WEB_DIST);
   if (serveWeb) {
+    const { default: fastifyStatic } = await import("@fastify/static");
     await app.register(fastifyStatic, { root: WEB_DIST, wildcard: false });
   }
   app.setNotFoundHandler((req, reply) => {
