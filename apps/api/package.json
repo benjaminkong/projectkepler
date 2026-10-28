@@ -1,0 +1,25 @@
+{
+  "name": "@tender/api",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "PORT=${API_PORT:-3000} tsx watch --clear-screen=false src/server.ts",
+    "build": "node build.mjs",
+    "start": "node dist/server.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0",
+    "@fastify/multipart": "^10.1.6",
+    "@fastify/static": "^10.1.7",
+    "@tender/core": "*",
+    "cheerio": "^1.1.2",
+    "exceljs": "^4.4.0",
+    "fastify": "^5.3.2"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.2",
+    "tsx": "^4.19.3"
+  }
+}

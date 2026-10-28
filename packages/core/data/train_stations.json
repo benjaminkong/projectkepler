@@ -1,0 +1,1280 @@
+[
+ {
+  "code": "NS1",
+  "name": "Jurong East",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS2",
+  "name": "Bukit Batok",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS3",
+  "name": "Bukit Gombak",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS4",
+  "name": "Choa Chu Kang",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS5",
+  "name": "Yew Tee",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS7",
+  "name": "Kranji",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS8",
+  "name": "Marsiling",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS9",
+  "name": "Woodlands",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS10",
+  "name": "Admiralty",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS11",
+  "name": "Sembawang",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS12",
+  "name": "Canberra",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS13",
+  "name": "Yishun",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS14",
+  "name": "Khatib",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS15",
+  "name": "Yio Chu Kang",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS16",
+  "name": "Ang Mo Kio",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS17",
+  "name": "Bishan",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS18",
+  "name": "Braddell",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS19",
+  "name": "Toa Payoh",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS20",
+  "name": "Novena",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS21",
+  "name": "Newton",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS22",
+  "name": "Orchard",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS23",
+  "name": "Somerset",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS24",
+  "name": "Dhoby Ghaut",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS25",
+  "name": "City Hall",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS26",
+  "name": "Raffles Place",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS27",
+  "name": "Marina Bay",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "NS28",
+  "name": "Marina South Pier",
+  "line": "North-South Line",
+  "color": "red"
+ },
+ {
+  "code": "EW1",
+  "name": "Pasir Ris",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW2",
+  "name": "Tampines",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW3",
+  "name": "Simei",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW4",
+  "name": "Tanah Merah",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW5",
+  "name": "Bedok",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW6",
+  "name": "Kembangan",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW7",
+  "name": "Eunos",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW8",
+  "name": "Paya Lebar",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW9",
+  "name": "Aljunied",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW10",
+  "name": "Kallang",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW11",
+  "name": "Lavender",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW12",
+  "name": "Bugis",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW13",
+  "name": "City Hall",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW14",
+  "name": "Raffles Place",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW15",
+  "name": "Tanjong Pagar",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW16",
+  "name": "Outram Park",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW17",
+  "name": "Tiong Bahru",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW18",
+  "name": "Redhill",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW19",
+  "name": "Queenstown",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW20",
+  "name": "Commonwealth",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW21",
+  "name": "Buona Vista",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW22",
+  "name": "Dover",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW23",
+  "name": "Clementi",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW24",
+  "name": "Jurong East",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW25",
+  "name": "Chinese Garden",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW26",
+  "name": "Lakeside",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW27",
+  "name": "Boon Lay",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW28",
+  "name": "Pioneer",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW29",
+  "name": "Joo Koon",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW30",
+  "name": "Gul Circle",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW31",
+  "name": "Tuas Crescent",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW32",
+  "name": "Tuas West Road",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "EW33",
+  "name": "Tuas Link",
+  "line": "East-West Line",
+  "color": "green"
+ },
+ {
+  "code": "CG1",
+  "name": "Expo",
+  "line": "Changi Airport Branch Line",
+  "color": "green"
+ },
+ {
+  "code": "CG2",
+  "name": "Changi Airport",
+  "line": "Changi Airport Branch Line",
+  "color": "green"
+ },
+ {
+  "code": "NE1",
+  "name": "HarbourFront",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE3",
+  "name": "Outram Park",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE4",
+  "name": "Chinatown",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE5",
+  "name": "Clarke Quay",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE6",
+  "name": "Dhoby Ghaut",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE7",
+  "name": "Little India",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE8",
+  "name": "Farrer Park",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE9",
+  "name": "Boon Keng",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE10",
+  "name": "Potong Pasir",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE11",
+  "name": "Woodleigh",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE12",
+  "name": "Serangoon",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE13",
+  "name": "Kovan",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE14",
+  "name": "Hougang",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE15",
+  "name": "Buangkok",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE16",
+  "name": "Sengkang",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE17",
+  "name": "Punggol",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "NE18",
+  "name": "Punggol Coast",
+  "line": "North East Line",
+  "color": "purple"
+ },
+ {
+  "code": "CC1",
+  "name": "Dhoby Ghaut",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC2",
+  "name": "Bras Basah",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC3",
+  "name": "Esplanade",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC4",
+  "name": "Promenade",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC5",
+  "name": "Nicoll Highway",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC6",
+  "name": "Stadium",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC7",
+  "name": "Mountbatten",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC8",
+  "name": "Dakota",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC9",
+  "name": "Paya Lebar",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC10",
+  "name": "MacPherson",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC11",
+  "name": "Tai Seng",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC12",
+  "name": "Bartley",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC13",
+  "name": "Serangoon",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC14",
+  "name": "Lorong Chuan",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC15",
+  "name": "Bishan",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC16",
+  "name": "Marymount",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC17",
+  "name": "Caldecott",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC19",
+  "name": "Botanic Gardens",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC20",
+  "name": "Farrer Road",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC21",
+  "name": "Holland Village",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC22",
+  "name": "Buona Vista",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC23",
+  "name": "one-north",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC24",
+  "name": "Kent Ridge",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC25",
+  "name": "Haw Par Villa",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC26",
+  "name": "Pasir Panjang",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC27",
+  "name": "Labrador Park",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC28",
+  "name": "Telok Blangah",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CC29",
+  "name": "HarbourFront",
+  "line": "Circle Line",
+  "color": "yellow"
+ },
+ {
+  "code": "CE1",
+  "name": "Bayfront",
+  "line": "Circle Line Extension",
+  "color": "yellow"
+ },
+ {
+  "code": "CE2",
+  "name": "Marina Bay",
+  "line": "Circle Line Extension",
+  "color": "yellow"
+ },
+ {
+  "code": "DT1",
+  "name": "Bukit Panjang",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT2",
+  "name": "Cashew",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT3",
+  "name": "Hillview",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT4",
+  "name": "Hume",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT5",
+  "name": "Beauty World",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT6",
+  "name": "King Albert Park",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT7",
+  "name": "Sixth Avenue",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT8",
+  "name": "Tan Kah Kee",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT9",
+  "name": "Botanic Gardens",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT10",
+  "name": "Stevens",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT11",
+  "name": "Newton",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT12",
+  "name": "Little India",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT13",
+  "name": "Rochor",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT14",
+  "name": "Bugis",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT15",
+  "name": "Promenade",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT16",
+  "name": "Bayfront",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT17",
+  "name": "Downtown",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT18",
+  "name": "Telok Ayer",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT19",
+  "name": "Chinatown",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT20",
+  "name": "Fort Canning",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT21",
+  "name": "Bencoolen",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT22",
+  "name": "Jalan Besar",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT23",
+  "name": "Bendemeer",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT24",
+  "name": "Geylang Bahru",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT25",
+  "name": "Mattar",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT26",
+  "name": "MacPherson",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT27",
+  "name": "Ubi",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT28",
+  "name": "Kaki Bukit",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT29",
+  "name": "Bedok North",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT30",
+  "name": "Bedok Reservoir",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT31",
+  "name": "Tampines West",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT32",
+  "name": "Tampines",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT33",
+  "name": "Tampines East",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT34",
+  "name": "Upper Changi",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "DT35",
+  "name": "Expo",
+  "line": "Downtown Line",
+  "color": "blue"
+ },
+ {
+  "code": "BP1",
+  "name": "Choa Chu Kang",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP2",
+  "name": "South View",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP3",
+  "name": "Keat Hong",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP4",
+  "name": "Teck Whye",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP5",
+  "name": "Phoenix",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP6",
+  "name": "Bukit Panjang",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP7",
+  "name": "Petir",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP8",
+  "name": "Pending",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP9",
+  "name": "Bangkit",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP10",
+  "name": "Fajar",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP11",
+  "name": "Segar",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP12",
+  "name": "Jelapang",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "BP13",
+  "name": "Senja",
+  "line": "Bukit Panjang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "STC",
+  "name": "Sengkang",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SE1",
+  "name": "Compassvale",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SE2",
+  "name": "Rumbia",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SE3",
+  "name": "Bakau",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SE4",
+  "name": "Kangkar",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SE5",
+  "name": "Ranggung",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SW1",
+  "name": "Cheng Lim",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SW2",
+  "name": "Farmway",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SW3",
+  "name": "Kupang",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SW4",
+  "name": "Thanggam",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SW5",
+  "name": "Fernvale",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SW6",
+  "name": "Layar",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SW7",
+  "name": "Tongkang",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "SW8",
+  "name": "Renjong",
+  "line": "Sengkang LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PTC",
+  "name": "Punggol",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PE1",
+  "name": "Cove",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PE2",
+  "name": "Meridian",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PE3",
+  "name": "Coral Edge",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PE4",
+  "name": "Riviera",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PE5",
+  "name": "Kadaloor",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PE6",
+  "name": "Oasis",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PE7",
+  "name": "Damai",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PW1",
+  "name": "Sam Kee",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PW2",
+  "name": "Teck Lee",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PW3",
+  "name": "Punggol Point",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PW4",
+  "name": "Samudera",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PW5",
+  "name": "Nibong",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PW6",
+  "name": "Sumang",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "PW7",
+  "name": "Soo Teck",
+  "line": "Punggol LRT",
+  "color": "grey"
+ },
+ {
+  "code": "TE1",
+  "name": "Woodlands North",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE2",
+  "name": "Woodlands",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE3",
+  "name": "Woodlands South",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE4",
+  "name": "Springleaf",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE5",
+  "name": "Lentor",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE6",
+  "name": "Mayflower",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE7",
+  "name": "Bright Hill",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE8",
+  "name": "Upper Thomson",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE9",
+  "name": "Caldecott",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE11",
+  "name": "Stevens",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE12",
+  "name": "Napier",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE13",
+  "name": "Orchard Boulevard",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE14",
+  "name": "Orchard",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE15",
+  "name": "Great World",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE16",
+  "name": "Havelock",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE17",
+  "name": "Outram Park",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE18",
+  "name": "Maxwell",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE19",
+  "name": "Shenton Way",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE20",
+  "name": "Marina Bay",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE22",
+  "name": "Gardens by the Bay",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE23",
+  "name": "Tanjong Rhu",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE24",
+  "name": "Katong Park",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE25",
+  "name": "Tanjong Katong",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE26",
+  "name": "Marine Parade",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE27",
+  "name": "Marine Terrace",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE28",
+  "name": "Siglap",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ },
+ {
+  "code": "TE29",
+  "name": "Bayshore",
+  "line": "Thomson-East Coast Line",
+  "color": "brown"
+ }
+]

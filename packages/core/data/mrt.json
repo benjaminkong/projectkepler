@@ -1,0 +1,952 @@
+[
+ {
+  "name": "Admiralty MRT Station",
+  "lat": 1.440407,
+  "lng": 103.800857
+ },
+ {
+  "name": "Aljunied MRT Station",
+  "lat": 1.316363,
+  "lng": 103.882485
+ },
+ {
+  "name": "Ang Mo Kio MRT Station",
+  "lat": 1.369618,
+  "lng": 103.849676
+ },
+ {
+  "name": "Bakau LRT Station",
+  "lat": 1.388013,
+  "lng": 103.905464
+ },
+ {
+  "name": "Bangkit LRT Station",
+  "lat": 1.379853,
+  "lng": 103.772591
+ },
+ {
+  "name": "Bartley MRT Station",
+  "lat": 1.342875,
+  "lng": 103.879582
+ },
+ {
+  "name": "Bayfront MRT Station",
+  "lat": 1.282089,
+  "lng": 103.859205
+ },
+ {
+  "name": "Bayshore MRT Station",
+  "lat": 1.312815,
+  "lng": 103.941583
+ },
+ {
+  "name": "Beauty World MRT Station",
+  "lat": 1.341087,
+  "lng": 103.775732
+ },
+ {
+  "name": "Bedok MRT Station",
+  "lat": 1.323971,
+  "lng": 103.929412
+ },
+ {
+  "name": "Bedok North MRT Station",
+  "lat": 1.334522,
+  "lng": 103.918514
+ },
+ {
+  "name": "Bedok Reservoir MRT Station",
+  "lat": 1.336451,
+  "lng": 103.933187
+ },
+ {
+  "name": "Bencoolen MRT Station",
+  "lat": 1.298365,
+  "lng": 103.849892
+ },
+ {
+  "name": "Bendemeer MRT Station",
+  "lat": 1.313667,
+  "lng": 103.863147
+ },
+ {
+  "name": "Bishan MRT Station",
+  "lat": 1.350863,
+  "lng": 103.848692
+ },
+ {
+  "name": "Boon Keng MRT Station",
+  "lat": 1.319086,
+  "lng": 103.861371
+ },
+ {
+  "name": "Boon Lay MRT Station",
+  "lat": 1.338476,
+  "lng": 103.705718
+ },
+ {
+  "name": "Botanic Gardens MRT Station",
+  "lat": 1.32261,
+  "lng": 103.815446
+ },
+ {
+  "name": "Braddell MRT Station",
+  "lat": 1.340828,
+  "lng": 103.846759
+ },
+ {
+  "name": "Bras Basah MRT Station",
+  "lat": 1.297001,
+  "lng": 103.850526
+ },
+ {
+  "name": "Bright Hill MRT Station",
+  "lat": 1.363167,
+  "lng": 103.832869
+ },
+ {
+  "name": "Buangkok MRT Station",
+  "lat": 1.38303,
+  "lng": 103.893173
+ },
+ {
+  "name": "Bugis MRT Station",
+  "lat": 1.299914,
+  "lng": 103.856562
+ },
+ {
+  "name": "Bukit Batok MRT Station",
+  "lat": 1.349219,
+  "lng": 103.749699
+ },
+ {
+  "name": "Bukit Gombak MRT Station",
+  "lat": 1.359032,
+  "lng": 103.751962
+ },
+ {
+  "name": "Bukit Panjang LRT Station",
+  "lat": 1.377959,
+  "lng": 103.763054
+ },
+ {
+  "name": "Bukit Panjang MRT Station",
+  "lat": 1.379285,
+  "lng": 103.761231
+ },
+ {
+  "name": "Buona Vista MRT Station",
+  "lat": 1.306929,
+  "lng": 103.790659
+ },
+ {
+  "name": "Caldecott MRT Station",
+  "lat": 1.337487,
+  "lng": 103.840035
+ },
+ {
+  "name": "Canberra MRT Station",
+  "lat": 1.443227,
+  "lng": 103.829712
+ },
+ {
+  "name": "Cashew MRT Station",
+  "lat": 1.369833,
+  "lng": 103.764234
+ },
+ {
+  "name": "Cc30",
+  "lat": 1.270387,
+  "lng": 103.83011
+ },
+ {
+  "name": "Cc31",
+  "lat": 1.273048,
+  "lng": 103.836977
+ },
+ {
+  "name": "Cc32",
+  "lat": 1.273235,
+  "lng": 103.846218
+ },
+ {
+  "name": "Cc9",
+  "lat": 1.317512,
+  "lng": 103.892922
+ },
+ {
+  "name": "Changi Airport MRT Station",
+  "lat": 1.356781,
+  "lng": 103.988291
+ },
+ {
+  "name": "Cheng Lim LRT Station",
+  "lat": 1.39628,
+  "lng": 103.893803
+ },
+ {
+  "name": "Chinatown MRT Station",
+  "lat": 1.284642,
+  "lng": 103.844073
+ },
+ {
+  "name": "Chinese Garden MRT Station",
+  "lat": 1.341996,
+  "lng": 103.732785
+ },
+ {
+  "name": "Choa Chu Kang LRT Station",
+  "lat": 1.38499,
+  "lng": 103.744608
+ },
+ {
+  "name": "Choa Chu Kang MRT Station",
+  "lat": 1.385425,
+  "lng": 103.744416
+ },
+ {
+  "name": "City Hall MRT Station",
+  "lat": 1.293206,
+  "lng": 103.852441
+ },
+ {
+  "name": "Clarke Quay MRT Station",
+  "lat": 1.288616,
+  "lng": 103.846565
+ },
+ {
+  "name": "Clementi MRT Station",
+  "lat": 1.314771,
+  "lng": 103.765372
+ },
+ {
+  "name": "Commonwealth MRT Station",
+  "lat": 1.302373,
+  "lng": 103.798379
+ },
+ {
+  "name": "Compassvale LRT Station",
+  "lat": 1.394431,
+  "lng": 103.900662
+ },
+ {
+  "name": "Coral Edge LRT Station",
+  "lat": 1.393828,
+  "lng": 103.91268
+ },
+ {
+  "name": "Cove LRT Station",
+  "lat": 1.399214,
+  "lng": 103.906052
+ },
+ {
+  "name": "Dakota MRT Station",
+  "lat": 1.308455,
+  "lng": 103.888643
+ },
+ {
+  "name": "Damai LRT Station",
+  "lat": 1.405165,
+  "lng": 103.908703
+ },
+ {
+  "name": "Dhoby Ghaut MRT Station",
+  "lat": 1.299411,
+  "lng": 103.845502
+ },
+ {
+  "name": "Dover MRT Station",
+  "lat": 1.311554,
+  "lng": 103.778385
+ },
+ {
+  "name": "Downtown MRT Station",
+  "lat": 1.279553,
+  "lng": 103.852771
+ },
+ {
+  "name": "Dt18",
+  "lat": 1.28265,
+  "lng": 103.8478
+ },
+ {
+  "name": "Dt4",
+  "lat": 1.354946,
+  "lng": 103.768674
+ },
+ {
+  "name": "Esplanade MRT Station",
+  "lat": 1.293194,
+  "lng": 103.85568
+ },
+ {
+  "name": "Eunos MRT Station",
+  "lat": 1.319537,
+  "lng": 103.902897
+ },
+ {
+  "name": "Expo MRT Station",
+  "lat": 1.33518,
+  "lng": 103.962394
+ },
+ {
+  "name": "Fajar LRT Station",
+  "lat": 1.384465,
+  "lng": 103.770676
+ },
+ {
+  "name": "Farmway LRT Station",
+  "lat": 1.397167,
+  "lng": 103.889261
+ },
+ {
+  "name": "Farrer Park MRT Station",
+  "lat": 1.312161,
+  "lng": 103.854337
+ },
+ {
+  "name": "Farrer Road MRT Station",
+  "lat": 1.317523,
+  "lng": 103.807677
+ },
+ {
+  "name": "Fernvale LRT Station",
+  "lat": 1.392158,
+  "lng": 103.876262
+ },
+ {
+  "name": "Fort Canning MRT Station",
+  "lat": 1.292618,
+  "lng": 103.844298
+ },
+ {
+  "name": "Gardens by the Bay MRT Station",
+  "lat": 1.279167,
+  "lng": 103.867903
+ },
+ {
+  "name": "Geylang Bahru MRT Station",
+  "lat": 1.321335,
+  "lng": 103.871675
+ },
+ {
+  "name": "Great World MRT Station",
+  "lat": 1.294296,
+  "lng": 103.833092
+ },
+ {
+  "name": "Gul Circle MRT Station",
+  "lat": 1.318935,
+  "lng": 103.65994
+ },
+ {
+  "name": "Harbourfront MRT Station",
+  "lat": 1.265411,
+  "lng": 103.8215
+ },
+ {
+  "name": "Havelock MRT Station",
+  "lat": 1.288438,
+  "lng": 103.833734
+ },
+ {
+  "name": "Haw Par Villa MRT Station",
+  "lat": 1.283055,
+  "lng": 103.782006
+ },
+ {
+  "name": "Hillview MRT Station",
+  "lat": 1.362279,
+  "lng": 103.767398
+ },
+ {
+  "name": "Holland Village MRT Station",
+  "lat": 1.311,
+  "lng": 103.795887
+ },
+ {
+  "name": "Hougang MRT Station",
+  "lat": 1.371432,
+  "lng": 103.892464
+ },
+ {
+  "name": "Jalan Besar MRT Station",
+  "lat": 1.305179,
+  "lng": 103.85527
+ },
+ {
+  "name": "Jelapang LRT Station",
+  "lat": 1.386833,
+  "lng": 103.764677
+ },
+ {
+  "name": "Joo Koon MRT Station",
+  "lat": 1.327729,
+  "lng": 103.678582
+ },
+ {
+  "name": "Jurong East MRT Station",
+  "lat": 1.333211,
+  "lng": 103.742365
+ },
+ {
+  "name": "Kadaloor LRT Station",
+  "lat": 1.39961,
+  "lng": 103.916452
+ },
+ {
+  "name": "Kaki Bukit MRT Station",
+  "lat": 1.335117,
+  "lng": 103.909276
+ },
+ {
+  "name": "Kallang MRT Station",
+  "lat": 1.311661,
+  "lng": 103.871659
+ },
+ {
+  "name": "Kangkar LRT Station",
+  "lat": 1.38392,
+  "lng": 103.902212
+ },
+ {
+  "name": "Katong Park MRT Station",
+  "lat": 1.297959,
+  "lng": 103.886081
+ },
+ {
+  "name": "Keat Hong LRT Station",
+  "lat": 1.378465,
+  "lng": 103.749227
+ },
+ {
+  "name": "Kembangan MRT Station",
+  "lat": 1.321038,
+  "lng": 103.91292
+ },
+ {
+  "name": "Kent Ridge MRT Station",
+  "lat": 1.293487,
+  "lng": 103.784575
+ },
+ {
+  "name": "Khatib MRT Station",
+  "lat": 1.417404,
+  "lng": 103.832937
+ },
+ {
+  "name": "King Albert Park MRT Station",
+  "lat": 1.335757,
+  "lng": 103.783796
+ },
+ {
+  "name": "Kovan MRT Station",
+  "lat": 1.35998,
+  "lng": 103.884827
+ },
+ {
+  "name": "Kranji MRT Station",
+  "lat": 1.424961,
+  "lng": 103.762053
+ },
+ {
+  "name": "Kupang LRT Station",
+  "lat": 1.398221,
+  "lng": 103.881139
+ },
+ {
+  "name": "Labrador Park MRT Station",
+  "lat": 1.272107,
+  "lng": 103.802356
+ },
+ {
+  "name": "Lakeside MRT Station",
+  "lat": 1.344123,
+  "lng": 103.721079
+ },
+ {
+  "name": "Lavender MRT Station",
+  "lat": 1.307394,
+  "lng": 103.862847
+ },
+ {
+  "name": "Layar LRT Station",
+  "lat": 1.392085,
+  "lng": 103.880151
+ },
+ {
+  "name": "Lentor MRT Station",
+  "lat": 1.384739,
+  "lng": 103.836552
+ },
+ {
+  "name": "Little India MRT Station",
+  "lat": 1.306748,
+  "lng": 103.849279
+ },
+ {
+  "name": "Lorong Chuan MRT Station",
+  "lat": 1.351589,
+  "lng": 103.863926
+ },
+ {
+  "name": "Macpherson MRT Station",
+  "lat": 1.325871,
+  "lng": 103.889558
+ },
+ {
+  "name": "Marina Bay MRT Station",
+  "lat": 1.275451,
+  "lng": 103.855131
+ },
+ {
+  "name": "Marina South MRT Station",
+  "lat": 1.27402,
+  "lng": 103.862211
+ },
+ {
+  "name": "Marina South Pier MRT Station",
+  "lat": 1.270984,
+  "lng": 103.862955
+ },
+ {
+  "name": "Marine Parade MRT Station",
+  "lat": 1.303777,
+  "lng": 103.906844
+ },
+ {
+  "name": "Marine Terrace MRT Station",
+  "lat": 1.306694,
+  "lng": 103.915074
+ },
+ {
+  "name": "Marsiling MRT Station",
+  "lat": 1.432693,
+  "lng": 103.77411
+ },
+ {
+  "name": "Marymount MRT Station",
+  "lat": 1.348423,
+  "lng": 103.839573
+ },
+ {
+  "name": "Mattar MRT Station",
+  "lat": 1.326857,
+  "lng": 103.88324
+ },
+ {
+  "name": "Maxwell MRT Station",
+  "lat": 1.280715,
+  "lng": 103.843992
+ },
+ {
+  "name": "Mayflower MRT Station",
+  "lat": 1.37204,
+  "lng": 103.836766
+ },
+ {
+  "name": "Meridian LRT Station",
+  "lat": 1.396901,
+  "lng": 103.908918
+ },
+ {
+  "name": "Mountbatten MRT Station",
+  "lat": 1.306399,
+  "lng": 103.882923
+ },
+ {
+  "name": "Napier MRT Station",
+  "lat": 1.30664,
+  "lng": 103.819495
+ },
+ {
+  "name": "Ne18",
+  "lat": 1.414963,
+  "lng": 103.910107
+ },
+ {
+  "name": "Newton MRT Station",
+  "lat": 1.312764,
+  "lng": 103.838114
+ },
+ {
+  "name": "Nibong LRT Station",
+  "lat": 1.411842,
+  "lng": 103.900303
+ },
+ {
+  "name": "Nicoll Highway MRT Station",
+  "lat": 1.299915,
+  "lng": 103.863829
+ },
+ {
+  "name": "Novena MRT Station",
+  "lat": 1.320495,
+  "lng": 103.843865
+ },
+ {
+  "name": "Oasis LRT Station",
+  "lat": 1.402305,
+  "lng": 103.9127
+ },
+ {
+  "name": "One-North MRT Station",
+  "lat": 1.299794,
+  "lng": 103.787546
+ },
+ {
+  "name": "Orchard Boulevard MRT Station",
+  "lat": 1.303044,
+  "lng": 103.823767
+ },
+ {
+  "name": "Orchard MRT Station",
+  "lat": 1.303789,
+  "lng": 103.83186
+ },
+ {
+  "name": "Outram Park MRT Station",
+  "lat": 1.280728,
+  "lng": 103.839077
+ },
+ {
+  "name": "Pasir Panjang MRT Station",
+  "lat": 1.276003,
+  "lng": 103.79203
+ },
+ {
+  "name": "Pasir Ris MRT Station",
+  "lat": 1.372864,
+  "lng": 103.949235
+ },
+ {
+  "name": "Paya Lebar MRT Station",
+  "lat": 1.317825,
+  "lng": 103.892201
+ },
+ {
+  "name": "Pending LRT Station",
+  "lat": 1.376297,
+  "lng": 103.771328
+ },
+ {
+  "name": "Petir LRT Station",
+  "lat": 1.377603,
+  "lng": 103.766793
+ },
+ {
+  "name": "Phoenix LRT Station",
+  "lat": 1.378614,
+  "lng": 103.758252
+ },
+ {
+  "name": "Pioneer MRT Station",
+  "lat": 1.337588,
+  "lng": 103.697142
+ },
+ {
+  "name": "Potong Pasir MRT Station",
+  "lat": 1.331672,
+  "lng": 103.869001
+ },
+ {
+  "name": "Promenade MRT Station",
+  "lat": 1.293226,
+  "lng": 103.860349
+ },
+ {
+  "name": "Punggol LRT Station",
+  "lat": 1.404369,
+  "lng": 103.901957
+ },
+ {
+  "name": "Punggol MRT Station",
+  "lat": 1.405263,
+  "lng": 103.902452
+ },
+ {
+  "name": "Punggol Point LRT Station",
+  "lat": 1.416789,
+  "lng": 103.906756
+ },
+ {
+  "name": "Queenstown MRT Station",
+  "lat": 1.294852,
+  "lng": 103.805893
+ },
+ {
+  "name": "Raffles Place MRT Station",
+  "lat": 1.283704,
+  "lng": 103.851415
+ },
+ {
+  "name": "Ranggung LRT Station",
+  "lat": 1.384141,
+  "lng": 103.897273
+ },
+ {
+  "name": "Redhill MRT Station",
+  "lat": 1.289428,
+  "lng": 103.817122
+ },
+ {
+  "name": "Renjong LRT Station",
+  "lat": 1.386756,
+  "lng": 103.890424
+ },
+ {
+  "name": "Riviera LRT Station",
+  "lat": 1.394442,
+  "lng": 103.916099
+ },
+ {
+  "name": "Rochor MRT Station",
+  "lat": 1.303809,
+  "lng": 103.85274
+ },
+ {
+  "name": "Rumbia LRT Station",
+  "lat": 1.391377,
+  "lng": 103.906062
+ },
+ {
+  "name": "Sam Kee LRT Station",
+  "lat": 1.409765,
+  "lng": 103.904915
+ },
+ {
+  "name": "Samudera LRT Station",
+  "lat": 1.415886,
+  "lng": 103.902137
+ },
+ {
+  "name": "Segar LRT Station",
+  "lat": 1.387812,
+  "lng": 103.76941
+ },
+ {
+  "name": "Sembawang MRT Station",
+  "lat": 1.448922,
+  "lng": 103.820015
+ },
+ {
+  "name": "Sengkang MRT Station",
+  "lat": 1.391719,
+  "lng": 103.895489
+ },
+ {
+  "name": "Senja LRT Station",
+  "lat": 1.382875,
+  "lng": 103.762326
+ },
+ {
+  "name": "Serangoon MRT Station",
+  "lat": 1.350262,
+  "lng": 103.873297
+ },
+ {
+  "name": "Shenton Way MRT Station",
+  "lat": 1.277471,
+  "lng": 103.850936
+ },
+ {
+  "name": "Siglap MRT Station",
+  "lat": 1.309854,
+  "lng": 103.929979
+ },
+ {
+  "name": "Simei MRT Station",
+  "lat": 1.342662,
+  "lng": 103.953819
+ },
+ {
+  "name": "Sixth Avenue MRT Station",
+  "lat": 1.331151,
+  "lng": 103.796707
+ },
+ {
+  "name": "Somerset MRT Station",
+  "lat": 1.300368,
+  "lng": 103.83884
+ },
+ {
+  "name": "Soo Teck LRT Station",
+  "lat": 1.40513,
+  "lng": 103.897219
+ },
+ {
+  "name": "South View LRT Station",
+  "lat": 1.380318,
+  "lng": 103.745101
+ },
+ {
+  "name": "Springleaf MRT Station",
+  "lat": 1.398097,
+  "lng": 103.818159
+ },
+ {
+  "name": "Stadium MRT Station",
+  "lat": 1.302941,
+  "lng": 103.875313
+ },
+ {
+  "name": "Stevens MRT Station",
+  "lat": 1.320142,
+  "lng": 103.825788
+ },
+ {
+  "name": "Sumang LRT Station",
+  "lat": 1.408428,
+  "lng": 103.898546
+ },
+ {
+  "name": "Tai Seng MRT Station",
+  "lat": 1.335436,
+  "lng": 103.888034
+ },
+ {
+  "name": "Tampines East MRT Station",
+  "lat": 1.356143,
+  "lng": 103.955283
+ },
+ {
+  "name": "Tampines MRT Station",
+  "lat": 1.354317,
+  "lng": 103.943782
+ },
+ {
+  "name": "Tampines West MRT Station",
+  "lat": 1.345315,
+  "lng": 103.938573
+ },
+ {
+  "name": "Tan Kah Kee MRT Station",
+  "lat": 1.32574,
+  "lng": 103.8078
+ },
+ {
+  "name": "Tanah Merah MRT Station",
+  "lat": 1.32696,
+  "lng": 103.945759
+ },
+ {
+  "name": "Tanjong Katong MRT Station",
+  "lat": 1.299428,
+  "lng": 103.897485
+ },
+ {
+  "name": "Tanjong Pagar MRT Station",
+  "lat": 1.276506,
+  "lng": 103.846433
+ },
+ {
+  "name": "Tanjong Rhu MRT Station",
+  "lat": 1.29733,
+  "lng": 103.87354
+ },
+ {
+  "name": "Teck Lee LRT Station",
+  "lat": 1.412902,
+  "lng": 103.906646
+ },
+ {
+  "name": "Teck Whye LRT Station",
+  "lat": 1.376564,
+  "lng": 103.753826
+ },
+ {
+  "name": "Telok Ayer MRT Station",
+  "lat": 1.282212,
+  "lng": 103.848707
+ },
+ {
+  "name": "Telok Blangah MRT Station",
+  "lat": 1.270721,
+  "lng": 103.809884
+ },
+ {
+  "name": "Thanggam LRT Station",
+  "lat": 1.397195,
+  "lng": 103.875627
+ },
+ {
+  "name": "Tiong Bahru MRT Station",
+  "lat": 1.286061,
+  "lng": 103.827244
+ },
+ {
+  "name": "Toa Payoh MRT Station",
+  "lat": 1.332741,
+  "lng": 103.847285
+ },
+ {
+  "name": "Tongkang LRT Station",
+  "lat": 1.38928,
+  "lng": 103.886023
+ },
+ {
+  "name": "Tuas Crescent MRT Station",
+  "lat": 1.321004,
+  "lng": 103.649123
+ },
+ {
+  "name": "Tuas Link MRT Station",
+  "lat": 1.340683,
+  "lng": 103.637043
+ },
+ {
+  "name": "Tuas West Road MRT Station",
+  "lat": 1.330027,
+  "lng": 103.639538
+ },
+ {
+  "name": "Ubi MRT Station",
+  "lat": 1.329891,
+  "lng": 103.899231
+ },
+ {
+  "name": "Upper Changi MRT Station",
+  "lat": 1.341548,
+  "lng": 103.961285
+ },
+ {
+  "name": "Upper Thomson MRT Station",
+  "lat": 1.354527,
+  "lng": 103.832821
+ },
+ {
+  "name": "Woodlands MRT Station",
+  "lat": 1.436187,
+  "lng": 103.787627
+ },
+ {
+  "name": "Woodlands North MRT Station",
+  "lat": 1.448492,
+  "lng": 103.785266
+ },
+ {
+  "name": "Woodlands South MRT Station",
+  "lat": 1.426972,
+  "lng": 103.793958
+ },
+ {
+  "name": "Woodleigh MRT Station",
+  "lat": 1.338987,
+  "lng": 103.870834
+ },
+ {
+  "name": "Yew Tee MRT Station",
+  "lat": 1.397499,
+  "lng": 103.747267
+ },
+ {
+  "name": "Yio Chu Kang MRT Station",
+  "lat": 1.381715,
+  "lng": 103.844809
+ },
+ {
+  "name": "Yishun MRT Station",
+  "lat": 1.429384,
+  "lng": 103.835049
+ }
+]

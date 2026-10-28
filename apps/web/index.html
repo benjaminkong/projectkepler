@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Upcoming URA Government Land Sales tender sites, with nearby MRT stations, primary schools and amenities." />
+    <title>Tender Sites Portal</title>
+    <script>
+      // Apply the saved or system theme before first paint, so the page doesn't flash.
+      try {
+        const t = localStorage.getItem("theme");
+        const dark = t === "dark" || ((!t || t === "system") && matchMedia("(prefers-color-scheme: dark)").matches);
+        document.documentElement.classList.toggle("dark", dark);
+      } catch {}
+    </script>
+  </head>
+  <body class="min-h-screen font-sans antialiased">
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

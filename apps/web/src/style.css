@@ -1,0 +1,122 @@
+@import "@fontsource-variable/inter";
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+  --color-brand: #0f766e;
+  --color-brand-strong: #115e59;
+}
+
+:root {
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --text: #18181b;
+  --muted: #52525b;
+  --border: #e4e4e7;
+  color-scheme: light;
+}
+
+.dark {
+  --bg: #0b0f14;
+  --surface: #131a22;
+  --text: #f4f4f5;
+  --muted: #a1a1aa;
+  --border: #27313d;
+  color-scheme: dark;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* Map marker: coloured disc with a glyph, so categories differ by shape of text too. */
+.poi-marker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 9999px;
+  border: 2px solid #fff;
+  color: #fff;
+  font: 700 11px/1 "Inter Variable", system-ui, sans-serif;
+  box-shadow: 0 1px 4px rgb(0 0 0 / 0.35);
+}
+
+/* Tender site: gold star over a pulsing halo, drawn above amenity markers. */
+.site-star {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.site-star svg {
+  position: relative;
+  filter: drop-shadow(0 2px 3px rgb(0 0 0 / 0.45));
+}
+
+.site-star-disc {
+  position: absolute;
+  inset: 12%;
+  border-radius: 9999px;
+  background: rgb(251 191 36 / 0.3);
+  border: 2px solid rgb(217 119 6 / 0.9);
+}
+
+.site-star-halo {
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  background: rgb(251 191 36 / 0.35);
+  border: 2px solid rgb(245 158 11 / 0.8);
+  animation: site-star-pulse 2s ease-out infinite;
+}
+
+@keyframes site-star-pulse {
+  0% { transform: scale(0.5); opacity: 1; }
+  100% { transform: scale(1.15); opacity: 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .site-star-disc {
+  position: absolute;
+  inset: 12%;
+  border-radius: 9999px;
+  background: rgb(251 191 36 / 0.3);
+  border: 2px solid rgb(217 119 6 / 0.9);
+}
+
+.site-star-halo {
+    animation: none;
+    transform: scale(0.85);
+    opacity: 0.6;
+  }
+}
+
+.leaflet-container {
+  font-family: inherit;
+  background: var(--bg);
+}
+
+.dark .leaflet-popup-content-wrapper,
+.dark .leaflet-popup-tip {
+  background: var(--surface);
+  color: var(--text);
+}
+
+.dark .leaflet-bar a {
+  background: var(--surface);
+  color: var(--text);
+  border-color: var(--border);
+}
+
+.dark .leaflet-control-attribution {
+  background: rgb(19 26 34 / 0.85);
+  color: var(--muted);
+}
+
+.dark .leaflet-control-attribution a {
+  color: #5eead4;
+}

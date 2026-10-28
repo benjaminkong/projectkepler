@@ -1,0 +1,1465 @@
+[
+ {
+  "name": "100AM",
+  "lat": 1.274904,
+  "lng": 103.843614,
+  "detail": "100 Tras Street"
+ },
+ {
+  "name": "18 Tai Seng",
+  "lat": 1.336297,
+  "lng": 103.888832,
+  "detail": "18 Tai Seng Street"
+ },
+ {
+  "name": "313@Somerset",
+  "lat": 1.301018,
+  "lng": 103.838287,
+  "detail": "313 Orchard Road"
+ },
+ {
+  "name": "888 Plaza",
+  "lat": 1.437815,
+  "lng": 103.795301,
+  "detail": "888 Woodlands Drive 50"
+ },
+ {
+  "name": "Admiralty Place",
+  "lat": 1.440258,
+  "lng": 103.801298,
+  "detail": "678A Woodlands Avenue 6"
+ },
+ {
+  "name": "AEON Mall",
+  "lat": 1.481524,
+  "lng": 103.656162,
+  "detail": "8 Jalan Indah 15/2"
+ },
+ {
+  "name": "Alexandra Central",
+  "lat": 1.287317,
+  "lng": 103.805328,
+  "detail": "321 Alexandra Road"
+ },
+ {
+  "name": "Alexandra Retail Centre",
+  "lat": 1.273857,
+  "lng": 103.801406,
+  "detail": "460 Alexandra Road"
+ },
+ {
+  "name": "Anchorpoint",
+  "lat": 1.28869,
+  "lng": 103.805025,
+  "detail": "370 Alexandra Road"
+ },
+ {
+  "name": "Ang Mo Kio Hub",
+  "lat": 1.369444,
+  "lng": 103.848342,
+  "detail": "53 Ang Mo Kio Avenue 3"
+ },
+ {
+  "name": "Aperia Mall",
+  "lat": 1.310291,
+  "lng": 103.863974,
+  "detail": "12 Kallang Avenue"
+ },
+ {
+  "name": "Balestier Plaza",
+  "lat": 1.325714,
+  "lng": 103.850382,
+  "detail": "400 Balestier Road"
+ },
+ {
+  "name": "Balmoral Plaza",
+  "lat": 1.316492,
+  "lng": 103.835456
+ },
+ {
+  "name": "Beauty World Centre",
+  "lat": 1.342359,
+  "lng": 103.776559,
+  "detail": "144 Upper Bukit Timah Road"
+ },
+ {
+  "name": "Beauty World Plaza",
+  "lat": 1.341829,
+  "lng": 103.776304,
+  "detail": "140 Upper Bukit Timah Road"
+ },
+ {
+  "name": "Bedok Mall",
+  "lat": 1.324837,
+  "lng": 103.929246,
+  "detail": "12 New Upper Changi Road"
+ },
+ {
+  "name": "Beletime Danga Bay",
+  "lat": 1.464245,
+  "lng": 103.728879
+ },
+ {
+  "name": "Bencoolen",
+  "lat": 1.29844,
+  "lng": 103.849918
+ },
+ {
+  "name": "Bencoolen Underground Mall",
+  "lat": 1.298181,
+  "lng": 103.849647
+ },
+ {
+  "name": "Bengkong Shopping Centre",
+  "lat": 1.158016,
+  "lng": 104.025971
+ },
+ {
+  "name": "Big Block",
+  "lat": 1.292551,
+  "lng": 103.838975,
+  "detail": "46 Kim Yam Road"
+ },
+ {
+  "name": "Big Box Retail Park",
+  "lat": 1.396702,
+  "lng": 103.627896
+ },
+ {
+  "name": "Boon Lay Shopping Centre",
+  "lat": 1.346327,
+  "lng": 103.712483,
+  "detail": "221 Boon Lay Place"
+ },
+ {
+  "name": "Box in Box",
+  "lat": 1.396999,
+  "lng": 103.630337
+ },
+ {
+  "name": "Bras Basah Complex",
+  "lat": 1.296825,
+  "lng": 103.853629,
+  "detail": "231 Bain Street"
+ },
+ {
+  "name": "Broadway Plaza",
+  "lat": 1.371935,
+  "lng": 103.84596,
+  "detail": "4190 Ang Mo Kio Avenue 6"
+ },
+ {
+  "name": "Buangkok Square Mall",
+  "lat": 1.3843,
+  "lng": 103.881618,
+  "detail": "991 Buangkok Link"
+ },
+ {
+  "name": "Bugis Junction",
+  "lat": 1.299816,
+  "lng": 103.855902,
+  "detail": "200 Victoria Street"
+ },
+ {
+  "name": "Bugis+",
+  "lat": 1.299673,
+  "lng": 103.854166,
+  "detail": "201 Victoria Street"
+ },
+ {
+  "name": "Bukit Panjang Plaza",
+  "lat": 1.380008,
+  "lng": 103.764312,
+  "detail": "1 Jelebu Road"
+ },
+ {
+  "name": "Bukit Panjang Plaza",
+  "lat": 1.378632,
+  "lng": 103.76211
+ },
+ {
+  "name": "Bukit Timah Shopping Center",
+  "lat": 1.34326,
+  "lng": 103.776051,
+  "detail": "170 Upper Bukit Timah Road"
+ },
+ {
+  "name": "Canberra Plaza",
+  "lat": 1.443183,
+  "lng": 103.830521,
+  "detail": "133 Canberra View"
+ },
+ {
+  "name": "Cathay Cineleisure Orchard",
+  "lat": 1.301491,
+  "lng": 103.836491,
+  "detail": "8 Grange Road"
+ },
+ {
+  "name": "Causeway Point",
+  "lat": 1.436046,
+  "lng": 103.786006,
+  "detail": "1 Woodlands Square"
+ },
+ {
+  "name": "Century Square",
+  "lat": 1.352386,
+  "lng": 103.94379,
+  "detail": "2 Tampines Central 5"
+ },
+ {
+  "name": "Changi Airport Terminal 1",
+  "lat": 1.362708,
+  "lng": 103.991081,
+  "detail": "80 Airport Boulevard"
+ },
+ {
+  "name": "Changi Airport Terminal 2",
+  "lat": 1.353795,
+  "lng": 103.990449,
+  "detail": "60 Airport Boulevard"
+ },
+ {
+  "name": "Changi Airport Terminal 3",
+  "lat": 1.354607,
+  "lng": 103.985077,
+  "detail": "65 Airport Boulevard"
+ },
+ {
+  "name": "Changi City Point",
+  "lat": 1.334034,
+  "lng": 103.963045,
+  "detail": "5 Changi Business Park Central 1"
+ },
+ {
+  "name": "City Plaza",
+  "lat": 1.314773,
+  "lng": 103.893446,
+  "detail": "810 Geylang Road"
+ },
+ {
+  "name": "City Square Mall",
+  "lat": 1.311387,
+  "lng": 103.856583,
+  "detail": "180 Kitchener Road"
+ },
+ {
+  "name": "CityLink Mall",
+  "lat": 1.292204,
+  "lng": 103.854539
+ },
+ {
+  "name": "Clarke Quay Central",
+  "lat": 1.28899,
+  "lng": 103.846628,
+  "detail": "6 Eu Tong Sen Street"
+ },
+ {
+  "name": "Clementi 321",
+  "lat": 1.311985,
+  "lng": 103.765021,
+  "detail": "321 Clementi Avenue 3"
+ },
+ {
+  "name": "Cluny Court",
+  "lat": 1.322641,
+  "lng": 103.814272,
+  "detail": "501 Bukit Timah Road"
+ },
+ {
+  "name": "Compass One",
+  "lat": 1.392028,
+  "lng": 103.89507,
+  "detail": "1 Sengkang Square"
+ },
+ {
+  "name": "Concorde Shopping Centre",
+  "lat": 1.28895,
+  "lng": 103.834229,
+  "detail": "317 Outram Road"
+ },
+ {
+  "name": "Coronation Shopping Plaza",
+  "lat": 1.323837,
+  "lng": 103.810002,
+  "detail": "587 Bukit Timah Road"
+ },
+ {
+  "name": "Crown Centre",
+  "lat": 1.323032,
+  "lng": 103.811161,
+  "detail": "557 Bukit Timah Road"
+ },
+ {
+  "name": "Cuppage Plaza",
+  "lat": 1.302039,
+  "lng": 103.840736,
+  "detail": "5 Koek Road"
+ },
+ {
+  "name": "Dairy Farm Mall",
+  "lat": 1.366014,
+  "lng": 103.775027
+ },
+ {
+  "name": "Danga City Mall",
+  "lat": 1.47426,
+  "lng": 103.755479
+ },
+ {
+  "name": "Dawson Place",
+  "lat": 1.292706,
+  "lng": 103.811014,
+  "detail": "57 Strathmore Avenue"
+ },
+ {
+  "name": "Delfi Orchard",
+  "lat": 1.307181,
+  "lng": 103.828474,
+  "detail": "402 Orchard Road"
+ },
+ {
+  "name": "Depot Heights Shopping Centre",
+  "lat": 1.281165,
+  "lng": 103.810328,
+  "detail": "108 Depot Road"
+ },
+ {
+  "name": "Design Orchard",
+  "lat": 1.302065,
+  "lng": 103.837932,
+  "detail": "250 Orchard Road"
+ },
+ {
+  "name": "Djitsun Mall Bedok",
+  "lat": 1.326129,
+  "lng": 103.929555,
+  "detail": "445 Bedok North Street 1"
+ },
+ {
+  "name": "DNP Plaza",
+  "lat": 1.47906,
+  "lng": 103.75756
+ },
+ {
+  "name": "Downtown East",
+  "lat": 1.377342,
+  "lng": 103.95459,
+  "detail": "1 Pasir Ris Close"
+ },
+ {
+  "name": "Downtown Gallery",
+  "lat": 1.276904,
+  "lng": 103.848367,
+  "detail": "6A Shenton Way"
+ },
+ {
+  "name": "Duo Residences",
+  "lat": 1.299879,
+  "lng": 103.85865
+ },
+ {
+  "name": "E! Hub",
+  "lat": 1.375988,
+  "lng": 103.955592
+ },
+ {
+  "name": "East Point",
+  "lat": 1.342727,
+  "lng": 103.952987,
+  "detail": "Simei Street 6"
+ },
+ {
+  "name": "Eastlink Mall",
+  "lat": 1.354361,
+  "lng": 103.944285,
+  "detail": "8 Tampines Central 1"
+ },
+ {
+  "name": "Elias Mall",
+  "lat": 1.378578,
+  "lng": 103.942013,
+  "detail": "625 Elias Road"
+ },
+ {
+  "name": "Esplanade Xchange",
+  "lat": 1.292608,
+  "lng": 103.855032
+ },
+ {
+  "name": "Excelsior Shopping Centre",
+  "lat": 1.2921,
+  "lng": 103.849689
+ },
+ {
+  "name": "Fairprice Hub",
+  "lat": 1.3261,
+  "lng": 103.678367,
+  "detail": "1 Joon Koon Circle"
+ },
+ {
+  "name": "Fajar Shopping Centre",
+  "lat": 1.383818,
+  "lng": 103.770853
+ },
+ {
+  "name": "Far East Plaza",
+  "lat": 1.307136,
+  "lng": 103.833913
+ },
+ {
+  "name": "Far East Shopping Centre",
+  "lat": 1.305535,
+  "lng": 103.830091,
+  "detail": "545 Orchard Road"
+ },
+ {
+  "name": "Fortune Centre",
+  "lat": 1.300392,
+  "lng": 103.852284,
+  "detail": "190 Middle Road"
+ },
+ {
+  "name": "Forum The Shopping Mall",
+  "lat": 1.306092,
+  "lng": 103.828707,
+  "detail": "583 Orchard Road"
+ },
+ {
+  "name": "Funan",
+  "lat": 1.291389,
+  "lng": 103.849987,
+  "detail": "107 North Bridge Road"
+ },
+ {
+  "name": "Fusionopolis 1",
+  "lat": 1.299243,
+  "lng": 103.78757,
+  "detail": "1 Fusionopolis Way"
+ },
+ {
+  "name": "Gallaria@Kotaraya",
+  "lat": 1.459504,
+  "lng": 103.762884,
+  "detail": "Jalan Trus"
+ },
+ {
+  "name": "Gek Poh Shopping Centre",
+  "lat": 1.349059,
+  "lng": 103.697726,
+  "detail": "762 Jurong West Street 75"
+ },
+ {
+  "name": "GR.ID",
+  "lat": 1.300095,
+  "lng": 103.849288,
+  "detail": "1 Selegie Road"
+ },
+ {
+  "name": "Grandlink Square",
+  "lat": 1.314293,
+  "lng": 103.891535,
+  "detail": "511 Guillemard Road"
+ },
+ {
+  "name": "Grantral Mall @ Clementi",
+  "lat": 1.314296,
+  "lng": 103.765138,
+  "detail": "3151 Commonwealth Avenue West"
+ },
+ {
+  "name": "Great World City",
+  "lat": 1.293609,
+  "lng": 103.831893,
+  "detail": "1 Kim Seng Promenade"
+ },
+ {
+  "name": "Greenridge Shopping Centre",
+  "lat": 1.385342,
+  "lng": 103.76623,
+  "detail": "524A Jelapang Road"
+ },
+ {
+  "name": "Greenwich V",
+  "lat": 1.387506,
+  "lng": 103.869389
+ },
+ {
+  "name": "Guoco Tower",
+  "lat": 1.277015,
+  "lng": 103.845472,
+  "detail": "1 Wallich Street"
+ },
+ {
+  "name": "Harbour Bay Mall",
+  "lat": 1.154253,
+  "lng": 104.001147
+ },
+ {
+  "name": "HDB Hub",
+  "lat": 1.331993,
+  "lng": 103.848495,
+  "detail": "480 Lorong 6 Toa Payoh"
+ },
+ {
+  "name": "Heartland Mall",
+  "lat": 1.359496,
+  "lng": 103.885203,
+  "detail": "205 Hougang Street 21"
+ },
+ {
+  "name": "Hillion Mall",
+  "lat": 1.378441,
+  "lng": 103.7633,
+  "detail": "17 Petir Road"
+ },
+ {
+  "name": "HillV2 Mall",
+  "lat": 1.363398,
+  "lng": 103.764363,
+  "detail": "4 Hillview Rise"
+ },
+ {
+  "name": "Holland Piazza",
+  "lat": 1.310679,
+  "lng": 103.795256,
+  "detail": "3 Lorong Liput"
+ },
+ {
+  "name": "Holland Road Shopping Centre",
+  "lat": 1.310294,
+  "lng": 103.795351,
+  "detail": "211 Holland Avenue"
+ },
+ {
+  "name": "Hougang 1",
+  "lat": 1.3757,
+  "lng": 103.879517,
+  "detail": "1 Hougang Street 91"
+ },
+ {
+  "name": "Hougang Green Shopping Mall",
+  "lat": 1.379288,
+  "lng": 103.887926
+ },
+ {
+  "name": "Hougang Mall",
+  "lat": 1.372441,
+  "lng": 103.893733,
+  "detail": "90 Hougang Avenue 10"
+ },
+ {
+  "name": "i12 Katong",
+  "lat": 1.305167,
+  "lng": 103.905042,
+  "detail": "112 East Coast Road"
+ },
+ {
+  "name": "Icon Link @ Club Street",
+  "lat": 1.283197,
+  "lng": 103.846816
+ },
+ {
+  "name": "Icon Village",
+  "lat": 1.275164,
+  "lng": 103.844535,
+  "detail": "10 Gopeng St"
+ },
+ {
+  "name": "imall",
+  "lat": 1.303112,
+  "lng": 103.906577,
+  "detail": "5 Marine Parade Central"
+ },
+ {
+  "name": "IMM",
+  "lat": 1.334765,
+  "lng": 103.746624,
+  "detail": "2 Jurong East Street 21"
+ },
+ {
+  "name": "ION Orchard",
+  "lat": 1.303955,
+  "lng": 103.831974,
+  "detail": "2 Orchard Turn"
+ },
+ {
+  "name": "Jalan Besar Plaza",
+  "lat": 1.30863,
+  "lng": 103.858037,
+  "detail": "101 Kitchener Road"
+ },
+ {
+  "name": "JEM",
+  "lat": 1.333133,
+  "lng": 103.743399,
+  "detail": "50 Jurong Gateway Road"
+ },
+ {
+  "name": "Jewel Changi Airport",
+  "lat": 1.360219,
+  "lng": 103.989683,
+  "detail": "78 Airport Boulevard"
+ },
+ {
+  "name": "Jewel Changi Basement",
+  "lat": 1.360269,
+  "lng": 103.989771
+ },
+ {
+  "name": "Jodoh Centre Bengkong",
+  "lat": 1.15837,
+  "lng": 104.02236
+ },
+ {
+  "name": "Johor Bahru City Square",
+  "lat": 1.461701,
+  "lng": 103.763985,
+  "detail": "106-108 Jalan Wong Ah Fook"
+ },
+ {
+  "name": "Joo Chiat Complex",
+  "lat": 1.315894,
+  "lng": 103.898395,
+  "detail": "1 Joo Chiat Road"
+ },
+ {
+  "name": "Jubilee Square",
+  "lat": 1.371786,
+  "lng": 103.847777,
+  "detail": "61 Ang Mo Kio Avenue 8"
+ },
+ {
+  "name": "Junction 10",
+  "lat": 1.380351,
+  "lng": 103.76013,
+  "detail": "1 Woodlands Road"
+ },
+ {
+  "name": "Junction 8",
+  "lat": 1.350586,
+  "lng": 103.84866,
+  "detail": "9 Bishan Place"
+ },
+ {
+  "name": "Junction Nine",
+  "lat": 1.43311,
+  "lng": 103.8417,
+  "detail": "18 Yishun Avenue 9"
+ },
+ {
+  "name": "Jurong Point",
+  "lat": 1.33956,
+  "lng": 103.705764,
+  "detail": "1 Jurong West Central 2"
+ },
+ {
+  "name": "Kallang Wave Mall",
+  "lat": 1.30347,
+  "lng": 103.873245
+ },
+ {
+  "name": "Kang Kar Mall",
+  "lat": 1.371719,
+  "lng": 103.894229
+ },
+ {
+  "name": "Katong Plaza",
+  "lat": 1.304207,
+  "lng": 103.90387,
+  "detail": "1 Brooke Road"
+ },
+ {
+  "name": "Katong Shopping Centre",
+  "lat": 1.303878,
+  "lng": 103.901148,
+  "detail": "865 Mountbatten Road"
+ },
+ {
+  "name": "Katong Square",
+  "lat": 1.304705,
+  "lng": 103.904719,
+  "detail": "86 East Coast Road"
+ },
+ {
+  "name": "Katong V",
+  "lat": 1.303133,
+  "lng": 103.903231,
+  "detail": "Marine Parade Road"
+ },
+ {
+  "name": "Keat Hong Shopping Centre",
+  "lat": 1.377326,
+  "lng": 103.744432,
+  "detail": "253 Choa Chu Kang Avenue 1"
+ },
+ {
+  "name": "Kinex",
+  "lat": 1.314653,
+  "lng": 103.894811,
+  "detail": "11 Tanjong Katong Road"
+ },
+ {
+  "name": "King's Arcade",
+  "lat": 1.32328,
+  "lng": 103.810715,
+  "detail": "559 Bukit Timah Road"
+ },
+ {
+  "name": "Knightsbridge",
+  "lat": 1.303163,
+  "lng": 103.836354,
+  "detail": "270 Orchard Road"
+ },
+ {
+  "name": "Komtar JBCC",
+  "lat": 1.463692,
+  "lng": 103.762779
+ },
+ {
+  "name": "Le Quest Mall",
+  "lat": 1.35598,
+  "lng": 103.741153,
+  "detail": "4 Bukit Batok Street 41"
+ },
+ {
+  "name": "Leisure Park Kallang",
+  "lat": 1.302184,
+  "lng": 103.876554
+ },
+ {
+  "name": "Lentor Modern",
+  "lat": 1.38574,
+  "lng": 103.834546,
+  "detail": "1 Lentor Central"
+ },
+ {
+  "name": "Liat Tower",
+  "lat": 1.305106,
+  "lng": 103.830727,
+  "detail": "541 Orchard Road"
+ },
+ {
+  "name": "Limbang Shopping Centre",
+  "lat": 1.391977,
+  "lng": 103.743212
+ },
+ {
+  "name": "Liv@Changi",
+  "lat": 1.358651,
+  "lng": 103.969448
+ },
+ {
+  "name": "Lot One Shoppers' Mall",
+  "lat": 1.385156,
+  "lng": 103.745025,
+  "detail": "21 Choa Chu Kang Avenue 4"
+ },
+ {
+  "name": "Loyang Point",
+  "lat": 1.366997,
+  "lng": 103.964624,
+  "detail": "258 Pasir Ris Drive 2"
+ },
+ {
+  "name": "Lucky Plaza",
+  "lat": 1.304515,
+  "lng": 103.833963,
+  "detail": "304 Orchard Road"
+ },
+ {
+  "name": "MacPherson Mall",
+  "lat": 1.331808,
+  "lng": 103.879374,
+  "detail": "MacPherson Road"
+ },
+ {
+  "name": "Mall of Medini",
+  "lat": 1.42811,
+  "lng": 103.632965
+ },
+ {
+  "name": "Mandarin Gallery",
+  "lat": 1.302018,
+  "lng": 103.836542
+ },
+ {
+  "name": "Marina Bay Link Mall",
+  "lat": 1.280909,
+  "lng": 103.8538
+ },
+ {
+  "name": "Marina One",
+  "lat": 1.277263,
+  "lng": 103.85296
+ },
+ {
+  "name": "Marina Square",
+  "lat": 1.291286,
+  "lng": 103.857535,
+  "detail": "6 Raffles Boulevard"
+ },
+ {
+  "name": "Marsiling Mall",
+  "lat": 1.433549,
+  "lng": 103.77996,
+  "detail": "4 Woodlands Street 12"
+ },
+ {
+  "name": "Midpoint Orchard",
+  "lat": 1.301761,
+  "lng": 103.838651,
+  "detail": "220 Orchard Road"
+ },
+ {
+  "name": "Millenia Walk",
+  "lat": 1.292644,
+  "lng": 103.859318,
+  "detail": "9 Raffles Boulevard"
+ },
+ {
+  "name": "Mustafa Centre",
+  "lat": 1.310124,
+  "lng": 103.855316,
+  "detail": "145 Syed Alwi Road"
+ },
+ {
+  "name": "myVillage",
+  "lat": 1.365149,
+  "lng": 103.865156,
+  "detail": "1 Maju Avenue"
+ },
+ {
+  "name": "nex",
+  "lat": 1.350448,
+  "lng": 103.872322,
+  "detail": "23 Serangoon Central"
+ },
+ {
+  "name": "Ngee Ann City",
+  "lat": 1.302613,
+  "lng": 103.834714,
+  "detail": "391 Orchard Rd"
+ },
+ {
+  "name": "Northpoint City",
+  "lat": 1.42817,
+  "lng": 103.836237,
+  "detail": "930 Yishun Avenue 2"
+ },
+ {
+  "name": "Northshore Plaza I",
+  "lat": 1.416683,
+  "lng": 103.902086,
+  "detail": "407 Northshore Drive"
+ },
+ {
+  "name": "Northshore Plaza II",
+  "lat": 1.417895,
+  "lng": 103.901321,
+  "detail": "418 Northshore Drive"
+ },
+ {
+  "name": "NTP+",
+  "lat": 1.351377,
+  "lng": 103.861709
+ },
+ {
+  "name": "Odeon Katong Shopping Complex",
+  "lat": 1.304691,
+  "lng": 103.901913,
+  "detail": "Mountbatten Road"
+ },
+ {
+  "name": "Old Airport Road Food Centre & Shopping Mall",
+  "lat": 1.308259,
+  "lng": 103.88583,
+  "detail": "51 Old Airport Road"
+ },
+ {
+  "name": "One Holland Village",
+  "lat": 1.311117,
+  "lng": 103.794105,
+  "detail": "7 Holland Village Way"
+ },
+ {
+  "name": "Orchard Building",
+  "lat": 1.301405,
+  "lng": 103.83735,
+  "detail": "1 Grange Road"
+ },
+ {
+  "name": "Orchard Central",
+  "lat": 1.300642,
+  "lng": 103.839803,
+  "detail": "181 Orchard Road"
+ },
+ {
+  "name": "Orchard Gateway",
+  "lat": 1.300699,
+  "lng": 103.839313,
+  "detail": "277 Orchard Road"
+ },
+ {
+  "name": "Orchard Gateway @ Emerald",
+  "lat": 1.301614,
+  "lng": 103.838867,
+  "detail": "218 Orchard Road"
+ },
+ {
+  "name": "Orchard Plaza",
+  "lat": 1.301263,
+  "lng": 103.841148,
+  "detail": "150 Orchard Road"
+ },
+ {
+  "name": "Orchard Shopping Centre",
+  "lat": 1.301497,
+  "lng": 103.837888,
+  "detail": "321 Orchard Road"
+ },
+ {
+  "name": "Orchard Towers",
+  "lat": 1.306961,
+  "lng": 103.82921,
+  "detail": "400 Orchard Road"
+ },
+ {
+  "name": "OUE Downtown",
+  "lat": 1.277403,
+  "lng": 103.848671,
+  "detail": "6 Shenton Way"
+ },
+ {
+  "name": "Pacific Plaza",
+  "lat": 1.30656,
+  "lng": 103.832124,
+  "detail": "9 Scotts Road"
+ },
+ {
+  "name": "Palais Renaissance",
+  "lat": 1.30672,
+  "lng": 103.829652,
+  "detail": "390 Orchard Road"
+ },
+ {
+  "name": "Paragon",
+  "lat": 1.303834,
+  "lng": 103.83564,
+  "detail": "290 Orchard Road"
+ },
+ {
+  "name": "Parc Point",
+  "lat": 1.3607,
+  "lng": 103.738759,
+  "detail": "302 Tengah Park Avenue"
+ },
+ {
+  "name": "Parklane Shopping Mall",
+  "lat": 1.300654,
+  "lng": 103.849442,
+  "detail": "35 Selegie Road"
+ },
+ {
+  "name": "PARKTOWN",
+  "lat": 1.366905,
+  "lng": 103.937808
+ },
+ {
+  "name": "Parkway Parade",
+  "lat": 1.30138,
+  "lng": 103.905285,
+  "detail": "80 Marine Parade Road"
+ },
+ {
+  "name": "Pasir Ris Mall",
+  "lat": 1.373849,
+  "lng": 103.948793,
+  "detail": "7 Pasir Ris Central"
+ },
+ {
+  "name": "Paya Lebar Square",
+  "lat": 1.318813,
+  "lng": 103.892601,
+  "detail": "60 Paya Lebar Road"
+ },
+ {
+  "name": "Peninsula Plaza",
+  "lat": 1.292327,
+  "lng": 103.850829,
+  "detail": "111 North Bridge Road"
+ },
+ {
+  "name": "Pinery Mall",
+  "lat": 1.343725,
+  "lng": 103.938949,
+  "detail": "91 Tampines Street 94"
+ },
+ {
+  "name": "Pioneer Mall",
+  "lat": 1.341694,
+  "lng": 103.697188,
+  "detail": "638 Jurong West Street 61"
+ },
+ {
+  "name": "Plantation Plaza",
+  "lat": 1.357533,
+  "lng": 103.73417,
+  "detail": "127 Tengah Drive"
+ },
+ {
+  "name": "Plaza 8",
+  "lat": 1.333512,
+  "lng": 103.965522,
+  "detail": "1"
+ },
+ {
+  "name": "Plaza Pelangi",
+  "lat": 1.480118,
+  "lng": 103.765148
+ },
+ {
+  "name": "Plaza Singapura",
+  "lat": 1.300457,
+  "lng": 103.845209,
+  "detail": "68 Orchard Road"
+ },
+ {
+  "name": "Punggol Plaza",
+  "lat": 1.394288,
+  "lng": 103.913045,
+  "detail": "168 Punggol Field"
+ },
+ {
+  "name": "Quayside Isle",
+  "lat": 1.247088,
+  "lng": 103.842183,
+  "detail": "31 Ocean Way"
+ },
+ {
+  "name": "Queensway Shopping Centre",
+  "lat": 1.287553,
+  "lng": 103.803477
+ },
+ {
+  "name": "R&F Mall",
+  "lat": 1.459557,
+  "lng": 103.769276
+ },
+ {
+  "name": "Raffles City Shopping Centre",
+  "lat": 1.293899,
+  "lng": 103.853351,
+  "detail": "252 North Bridge Road"
+ },
+ {
+  "name": "Rivervale Mall",
+  "lat": 1.392231,
+  "lng": 103.904475,
+  "detail": "11 Rivervale Crescent"
+ },
+ {
+  "name": "Rivervale Plaza",
+  "lat": 1.385333,
+  "lng": 103.901972,
+  "detail": "118 Rivervale Drive"
+ },
+ {
+  "name": "Rochester Mall",
+  "lat": 1.30566,
+  "lng": 103.788203,
+  "detail": "35 Rochester Drive"
+ },
+ {
+  "name": "Roxy Square",
+  "lat": 1.303351,
+  "lng": 103.904607,
+  "detail": "50 East Coast Road"
+ },
+ {
+  "name": "Royal Square at Novena",
+  "lat": 1.320525,
+  "lng": 103.84322
+ },
+ {
+  "name": "Sembawang Shopping Centre",
+  "lat": 1.441897,
+  "lng": 103.824931,
+  "detail": "604 Sembawang Road"
+ },
+ {
+  "name": "Sengkang Grand Mall",
+  "lat": 1.383203,
+  "lng": 103.892255,
+  "detail": "70 Compassvale Bow"
+ },
+ {
+  "name": "Serene Centre",
+  "lat": 1.322523,
+  "lng": 103.813689,
+  "detail": "10 Jalan Serene"
+ },
+ {
+  "name": "Shaw House",
+  "lat": 1.305829,
+  "lng": 103.83153,
+  "detail": "350 Orchard Road"
+ },
+ {
+  "name": "Shaw Plaza",
+  "lat": 1.324959,
+  "lng": 103.851262,
+  "detail": "360 Balestier Road"
+ },
+ {
+  "name": "Sim Lim Square",
+  "lat": 1.303033,
+  "lng": 103.853026,
+  "detail": "1 Rochor Canal Road"
+ },
+ {
+  "name": "Simei Plaza /Blk 248",
+  "lat": 1.343504,
+  "lng": 103.953622,
+  "detail": "248 Simei Street 3"
+ },
+ {
+  "name": "SingPost Centre",
+  "lat": 1.318998,
+  "lng": 103.894794
+ },
+ {
+  "name": "SKS Tower",
+  "lat": 1.471346,
+  "lng": 103.763954
+ },
+ {
+  "name": "South Beach Avenue",
+  "lat": 1.294755,
+  "lng": 103.855972
+ },
+ {
+  "name": "South Beach Quarter",
+  "lat": 1.295736,
+  "lng": 103.856156
+ },
+ {
+  "name": "Sprout @ AMK",
+  "lat": 1.371675,
+  "lng": 103.846014,
+  "detail": "713A Ang Mo Kio Avenue 6"
+ },
+ {
+  "name": "Square 2",
+  "lat": 1.320703,
+  "lng": 103.844138,
+  "detail": "10 Sinaran Drive"
+ },
+ {
+  "name": "STELLAR@TE2",
+  "lat": 1.435053,
+  "lng": 103.788175,
+  "detail": "11 Woodlands Square"
+ },
+ {
+  "name": "Sun Plaza",
+  "lat": 1.44819,
+  "lng": 103.819501,
+  "detail": "30 Sembawang Drive"
+ },
+ {
+  "name": "Sunshine Place",
+  "lat": 1.377768,
+  "lng": 103.739072,
+  "detail": "475 Choa Chu Kang Avenue 3"
+ },
+ {
+  "name": "Sunshine Plaza",
+  "lat": 1.300354,
+  "lng": 103.850942,
+  "detail": "91 Bencoolen Street"
+ },
+ {
+  "name": "Suntec City",
+  "lat": 1.294986,
+  "lng": 103.857876,
+  "detail": "3 Temasek Boulevard"
+ },
+ {
+  "name": "Suntec City",
+  "lat": 1.294983,
+  "lng": 103.860142,
+  "detail": "3 Temasek Boulevard"
+ },
+ {
+  "name": "Taman Jurong Shopping Centre",
+  "lat": 1.334828,
+  "lng": 103.720465,
+  "detail": "399 Yung Sheng Road"
+ },
+ {
+  "name": "Tampines 1",
+  "lat": 1.354218,
+  "lng": 103.945012,
+  "detail": "10 Tampines Central 1"
+ },
+ {
+  "name": "Tampines Mall",
+  "lat": 1.35254,
+  "lng": 103.944723,
+  "detail": "4 Tampines Central 5"
+ },
+ {
+  "name": "Tampines Mart",
+  "lat": 1.354402,
+  "lng": 103.960073
+ },
+ {
+  "name": "Tang Plaza",
+  "lat": 1.305017,
+  "lng": 103.833038,
+  "detail": "320 Orchard Road"
+ },
+ {
+  "name": "Tanglin Mall",
+  "lat": 1.304837,
+  "lng": 103.823858,
+  "detail": "163 Tanglin Road"
+ },
+ {
+  "name": "Tanjong Katong Complex",
+  "lat": 1.316375,
+  "lng": 103.894339,
+  "detail": "845 Geylang Road"
+ },
+ {
+  "name": "Tekka Centre",
+  "lat": 1.306223,
+  "lng": 103.85053,
+  "detail": "665 Buffalo Road"
+ },
+ {
+  "name": "Tekka Place",
+  "lat": 1.304591,
+  "lng": 103.852318,
+  "detail": "2 Serangoon Road"
+ },
+ {
+  "name": "Terminal Feri Antarabangsa Johor Bahru",
+  "lat": 1.470883,
+  "lng": 103.784564
+ },
+ {
+  "name": "The Cathay",
+  "lat": 1.299525,
+  "lng": 103.847665,
+  "detail": "2 Handy Road"
+ },
+ {
+  "name": "The Centrepoint",
+  "lat": 1.301901,
+  "lng": 103.839812,
+  "detail": "176 Orchard Road"
+ },
+ {
+  "name": "The Clementi Mall",
+  "lat": 1.314982,
+  "lng": 103.764233,
+  "detail": "3155 Commonwealth Avenue West"
+ },
+ {
+  "name": "The Concourse",
+  "lat": 1.300875,
+  "lng": 103.861884,
+  "detail": "302 Beach Road"
+ },
+ {
+  "name": "The Flow Mall",
+  "lat": 1.304563,
+  "lng": 103.904211,
+  "detail": "66 East Coast Road"
+ },
+ {
+  "name": "The Heeren",
+  "lat": 1.302634,
+  "lng": 103.83734,
+  "detail": "260 Orchard Road"
+ },
+ {
+  "name": "The Midtown",
+  "lat": 1.370413,
+  "lng": 103.895222,
+  "detail": "1187 Upper Serangoon Road"
+ },
+ {
+  "name": "The Oasis",
+  "lat": 1.287679,
+  "lng": 103.790374,
+  "detail": "87 Science Park Drive"
+ },
+ {
+  "name": "The Poiz Centre",
+  "lat": 1.331436,
+  "lng": 103.868571,
+  "detail": "51 Upper Serangoon Road"
+ },
+ {
+  "name": "The Seletar Mall",
+  "lat": 1.391547,
+  "lng": 103.87619,
+  "detail": "33 Sengkang West Avenue"
+ },
+ {
+  "name": "The Shoppes at Marina Bay Sands",
+  "lat": 1.28402,
+  "lng": 103.858892,
+  "detail": "10 Bayfront Avenue"
+ },
+ {
+  "name": "The Star Vista",
+  "lat": 1.308002,
+  "lng": 103.788383,
+  "detail": "1 Vista Exchange Green"
+ },
+ {
+  "name": "The Woodgrove",
+  "lat": 1.429091,
+  "lng": 103.781136,
+  "detail": "30 Woodlands Avenue 1"
+ },
+ {
+  "name": "The Woodleigh Mall",
+  "lat": 1.338698,
+  "lng": 103.87171,
+  "detail": "11 Bidadari Park Drive"
+ },
+ {
+  "name": "The Zon Duty Free",
+  "lat": 1.471559,
+  "lng": 103.782939
+ },
+ {
+  "name": "Thomson Plaza",
+  "lat": 1.354601,
+  "lng": 103.830797,
+  "detail": "301 Upper Thomson Road"
+ },
+ {
+  "name": "Tiong Bahru Plaza",
+  "lat": 1.286402,
+  "lng": 103.827329,
+  "detail": "302 Tiong Bahru Road"
+ },
+ {
+  "name": "Trio",
+  "lat": 1.309087,
+  "lng": 103.856928,
+  "detail": "29 Sam Leong Road"
+ },
+ {
+  "name": "United Square",
+  "lat": 1.317162,
+  "lng": 103.843606,
+  "detail": "101 Thomson Road"
+ },
+ {
+  "name": "Upper Serangoon Shopping Centre",
+  "lat": 1.353624,
+  "lng": 103.878834,
+  "detail": "756 Upper Serangoon Road"
+ },
+ {
+  "name": "Valley Point Shopping Centre",
+  "lat": 1.293095,
+  "lng": 103.827054,
+  "detail": "491 River Valley Road"
+ },
+ {
+  "name": "Velocity @ Novena Square",
+  "lat": 1.319793,
+  "lng": 103.843833,
+  "detail": "238 Thomson Road"
+ },
+ {
+  "name": "Vista Point",
+  "lat": 1.430959,
+  "lng": 103.79392
+ },
+ {
+  "name": "VivoCity",
+  "lat": 1.264374,
+  "lng": 103.822088,
+  "detail": "1 Harbourfront Avenue"
+ },
+ {
+  "name": "Waterway Point",
+  "lat": 1.406459,
+  "lng": 103.902228,
+  "detail": "83 Punggol Central"
+ },
+ {
+  "name": "West Coast Plaza",
+  "lat": 1.303642,
+  "lng": 103.766276,
+  "detail": "154 West Coast Road"
+ },
+ {
+  "name": "West Mall",
+  "lat": 1.350037,
+  "lng": 103.749287,
+  "detail": "1 Bukit Batok Central Link"
+ },
+ {
+  "name": "Westgate",
+  "lat": 1.334176,
+  "lng": 103.742875,
+  "detail": "3 Gateway Drive"
+ },
+ {
+  "name": "Wheelock Place",
+  "lat": 1.304687,
+  "lng": 103.830677,
+  "detail": "501 Orchard Road"
+ },
+ {
+  "name": "White Sands",
+  "lat": 1.372446,
+  "lng": 103.94976,
+  "detail": "1 Pasir Ris Central Street 3"
+ },
+ {
+  "name": "Wisma Atria",
+  "lat": 1.30368,
+  "lng": 103.833211,
+  "detail": "435 Orchard Road"
+ },
+ {
+  "name": "Wisteria Mall",
+  "lat": 1.41826,
+  "lng": 103.84127,
+  "detail": "598 Yishun Ring Road"
+ },
+ {
+  "name": "Woodlands North Plaza",
+  "lat": 1.442743,
+  "lng": 103.790806,
+  "detail": "883 Woodlands Street 82"
+ },
+ {
+  "name": "Yew Tee Square",
+  "lat": 1.398177,
+  "lng": 103.747005
+ },
+ {
+  "name": "YewTee Point",
+  "lat": 1.397088,
+  "lng": 103.746661,
+  "detail": "21 Choa Chu Kang North 6"
+ },
+ {
+  "name": "Zhongshan Mall",
+  "lat": 1.327147,
+  "lng": 103.846315,
+  "detail": "20 Ah Hood Road"
+ }
+]

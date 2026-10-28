@@ -1,0 +1,23 @@
+{
+  "name": "@tender/core",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Domain logic shared by the API and the web app: URA scraping, nearby places, valuation, transactions, AgentCore.",
+  "exports": {
+    "./*": "./src/lib/*.ts"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "data:refresh": "node scripts/refresh-data.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.135.0",
+    "cheerio": "^1.1.2",
+    "exceljs": "^4.4.0"
+  },
+  "devDependencies": {
+    "vitest": "^5.0.5"
+  }
+}
