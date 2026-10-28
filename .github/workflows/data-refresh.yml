@@ -1,0 +1,36 @@
+# Weekly: re-download the amenity datasets and open a pull request if any changed.
+# Needs Settings > Actions > General > "Allow GitHub Actions to create and approve pull requests".
+# Optional repository secrets ONEMAP_EMAIL / ONEMAP_PASSWORD speed up school geocoding.
+name: Data refresh
+
+on:
+  schedule:
+    - cron: "0 22 * * 0" # Monday 06:00 SGT
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run data:refresh
+        env:
+          ONEMAP_EMAIL: ${{ secrets.ONEMAP_EMAIL }}
+          ONEMAP_PASSWORD: ${{ secrets.ONEMAP_PASSWORD }}
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          add-paths: packages/core/data/
+          branch: data-refresh
+          delete-branch: true
+          commit-message: Refresh amenity datasets
+          title: Refresh amenity datasets
+          body: Weekly refresh of `packages/core/data/*.json` from data.gov.sg, OneMap and OpenStreetMap.

@@ -77,4 +77,4 @@ Either way, run one instance until the database lands, so that every visitor see
 - Server-rendered pages are now Vue pages that call the API. Leaflet is driven directly, with no React wrapper.
 - `daysUntil` moved to `dates.ts`, so the browser can use it without pulling in the scraper.
 - The upload limit went from 4 MB (a Vercel cap) to 20 MB (`packages/core/src/lib/limits.ts`).
-- ESLint is not set up yet. `.gitlab-ci.yml` runs typecheck, tests and build on every MR, builds the Docker image on `main` and refreshes datasets on a schedule.
+- ESLint is not set up yet. GitHub Actions (`.github/workflows`) typecheck, test and build every pull request and push to `main`, push the Docker image to `ghcr.io/benjaminkong/projectkepler` from `main`, and open a weekly data refresh pull request.
