@@ -8,7 +8,7 @@
     "dev": "concurrently -k -n api,web -c cyan,magenta \"npm run dev -w apps/api\" \"npm run dev -w apps/web\"",
     "build": "npm run build -w apps/web && npm run build -w apps/api",
     "start": "node apps/api/dist/server.js",
-    "test": "npm test -w packages/core",
+    "test": "npm test --workspaces --if-present",
     "typecheck": "npm run typecheck --workspaces",
     "data:refresh": "npm run data:refresh -w packages/core"
   },

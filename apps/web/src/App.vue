@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import ThemeToggle from "./components/ThemeToggle.vue";
+import UserMenu from "./components/UserMenu.vue";
+import { user } from "./lib/auth";
 </script>
 
 <template>
@@ -17,6 +19,7 @@ import ThemeToggle from "./components/ThemeToggle.vue";
           </RouterLink>
         </nav>
         <ThemeToggle />
+        <UserMenu v-if="user" :user="user" />
       </div>
     </div>
   </header>

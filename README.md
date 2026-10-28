@@ -32,17 +32,30 @@ Requires Node 22+. Copy `.env.example` to `.env.local` at the repo root and fill
 ```bash
 npm install
 npm run dev          # API on :3000, Vue on http://localhost:5173 (proxies /api to :3000)
-npm test             # 50 Vitest tests in packages/core
+npm test             # Vitest: 50 tests in packages/core, 14 SSO tests in apps/api
 npm run typecheck    # all workspaces (tsc + vue-tsc)
 npm run build        # apps/web/dist + apps/api/dist/server.js
 npm start            # production server on :3000, serving the built Vue app
 ```
 
+## Sign-in (SSO)
+
+People sign in with their Microsoft work account, using SAML with Microsoft Entra ID. Their initials show at the top right; clicking them opens a panel with their name, email and **Sign out**. Setting it up in the Entra admin center (including the My Apps tile) is covered in [docs/entra-sso.md](docs/entra-sso.md).
+
+Until `SAML_ENTRY_POINT` is set, `npm run dev` runs with sign-in off and logs a warning. In production (`NODE_ENV=production`) the server refuses to start without it, unless `AUTH_DISABLED=1` is set.
+
 ## API
+
+Every route except `/api/health` and `/api/auth/*` needs a signed-in session and answers 401 without one.
 
 | Method and path | Returns |
 | --- | --- |
 | `GET /api/health` | `{ status, time }` |
+| `GET /api/auth/me` | `{ enabled, user: { name, email } \| null }` |
+| `GET /api/auth/login?returnTo=/path` | Redirects to Entra to sign in |
+| `POST /api/auth/saml/acs` | Entra's SAML response (the Reply URL). Sets the session cookie |
+| `POST /api/auth/logout` | Clears the session and signs out of Entra |
+| `GET /api/auth/saml/metadata` | Service provider metadata for Entra |
 | `GET /api/sites` | All sites, each with its nearest MRT stations and primary schools (straight line) |
 | `GET /api/sites/:slug` | `{ site, nearby }` with walking distances (`?nearby=0` for the site only) |
 | `GET /api/sites/:slug/mrt` | The 3 stations nearest on foot |
@@ -56,6 +69,10 @@ npm start            # production server on :3000, serving the built Vue app
 | `GET /api/transactions/projects` | Project names, optionally limited to the given districts |
 | `GET /api/transactions/export` | The comparables `.xlsx` file |
 
+## Deploy to Vercel
+
+`vercel.json` serves the built Vue app from Vercel's CDN and runs the Fastify API as one function, `api/index.mjs`, which re-exports `apps/api/dist/vercel.js`. Import the GitHub repo in Vercel and set the environment variables. [docs/entra-sso.md](docs/entra-sso.md#6-deploy-on-vercel) lists them, along with the Entra settings for the Vercel domain and the limits on Vercel: saved AI assessments don't persist, and uploads are capped at 4.5 MB.
+
 ## Deploy to AWS
 
 The `Dockerfile` builds one image. Fastify listens on port 3000, serves the API and the Vue app from the same origin, and answers health checks at `/api/health`.
@@ -65,7 +82,7 @@ docker build -t tender-sites .
 docker run -p 3000:3000 --env-file .env.local -v tender-data:/app/.data tender-sites
 ```
 
-**AWS App Runner** is the simplest option. Push the image to ECR, create an App Runner service on port 3000, and set the health check path to `/api/health`. Set the environment variables, and keep secrets in Secrets Manager: `URA_ACCESS_KEY`, `AWS_BEARER_TOKEN_BEDROCK`, `BEDROCK_REGION`, the `COGNITO_*` variables and `AGENTCORE_RUNTIME_URL`. App Runner has no persistent disk, so saved AI assessments are lost on each redeploy until a database is added. It also limits each request to 120 seconds, which is why Generate replies 202 after 100 s and the page polls for the report.
+**AWS App Runner** is the simplest option. Push the image to ECR, create an App Runner service on port 3000, and set the health check path to `/api/health`. Set the environment variables, and keep secrets in Secrets Manager: `SESSION_SECRET`, `SAML_IDP_CERT`, `URA_ACCESS_KEY`, `AWS_BEARER_TOKEN_BEDROCK`, `BEDROCK_REGION`, the `COGNITO_*` variables and `AGENTCORE_RUNTIME_URL`. App Runner has no persistent disk, so saved AI assessments are lost on each redeploy until a database is added. It also limits each request to 120 seconds, which is why Generate replies 202 after 100 s and the page polls for the report.
 
 **ECS on Fargate behind an ALB** is the option to choose if assessments must persist before the database exists. Mount EFS at `/app/.data`. Raise the ALB idle timeout above `GENERATE_WAIT_MS`.
 

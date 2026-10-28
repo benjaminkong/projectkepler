@@ -8,3 +8,6 @@ coverage/
 .raw-data/
 .data/
 .claude/
+
+# Vercel CLI project link
+.vercel

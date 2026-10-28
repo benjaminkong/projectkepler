@@ -2,6 +2,7 @@ import type { NearbyStation } from "@tender/core/mrtLines";
 import type { NearbyResult } from "@tender/core/nearby";
 import type { CategoryId } from "@tender/core/categories";
 import type { TenderSite } from "@tender/core/ura";
+import { signIn } from "./auth";
 
 export class ApiError extends Error {
   constructor(public status: number, message: string, public body?: unknown) {
@@ -12,6 +13,8 @@ export class ApiError extends Error {
 /** GETs or POSTs JSON from the Fastify API; non-2xx responses throw ApiError with the server's message. */
 export async function api<T>(path: string, init?: RequestInit): Promise<T> {
   const res = await fetch(path, init);
+  // The session expired (or was signed out in another tab): sign in again and come back here.
+  if (res.status === 401) signIn();
   const body = await res.json().catch(() => undefined);
   if (!res.ok) {
     const msg = (body as { error?: string; message?: string } | undefined);

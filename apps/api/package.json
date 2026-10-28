@@ -7,12 +7,16 @@
     "dev": "PORT=${API_PORT:-3000} tsx watch --clear-screen=false src/server.ts",
     "build": "node build.mjs",
     "start": "node dist/server.js",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.135.0",
+    "@fastify/cookie": "^11.1.5",
+    "@fastify/formbody": "^9.0.1",
     "@fastify/multipart": "^10.1.6",
     "@fastify/static": "^10.1.7",
+    "@node-saml/node-saml": "^5.2.0",
     "@tender/core": "*",
     "cheerio": "^1.1.2",
     "exceljs": "^4.4.0",
@@ -20,6 +24,8 @@
   },
   "devDependencies": {
     "esbuild": "^0.25.2",
-    "tsx": "^4.19.3"
+    "tsx": "^4.19.3",
+    "vitest": "^5.0.5",
+    "xml-crypto": "^6.4.0"
   }
 }

@@ -1,4 +1,5 @@
-// Bundles the API and @tender/core (TypeScript source + data JSON) into dist/server.js.
+// Bundles the API and @tender/core (TypeScript source + data JSON) into dist/server.js (Docker,
+// npm start) and dist/vercel.js (the Vercel function).
 // npm packages stay external and are installed in the image with `npm ci --omit=dev`.
 import path from "node:path";
 import { build } from "esbuild";
@@ -6,8 +7,8 @@ import { build } from "esbuild";
 const CORE = path.resolve(import.meta.dirname, "../../packages/core/src/lib");
 
 await build({
-  entryPoints: ["src/server.ts"],
-  outfile: "dist/server.js",
+  entryPoints: ["src/server.ts", "src/vercel.ts"],
+  outdir: "dist",
   bundle: true,
   platform: "node",
   target: "node22",
@@ -26,4 +27,4 @@ await build({
     },
   ],
 });
-console.log("built dist/server.js");
+console.log("built dist/server.js and dist/vercel.js");

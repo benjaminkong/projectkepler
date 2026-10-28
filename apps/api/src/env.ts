@@ -14,6 +14,10 @@ function findRepoRoot(from: string): string | null {
 
 export const REPO_ROOT = findRepoRoot(process.cwd());
 
+// Vercel functions can only write to /tmp, which is per instance and wiped when it stops: saved AI
+// assessments don't last there. Point ASSESSMENT_STORE_DIR elsewhere once there is a database.
+if (process.env.VERCEL) process.env.ASSESSMENT_STORE_DIR ||= "/tmp/ai-assessments";
+
 if (REPO_ROOT) {
   // loadEnvFile never overrides a variable that is already set, so .env.local wins over .env.
   for (const name of [".env.local", ".env"]) {
