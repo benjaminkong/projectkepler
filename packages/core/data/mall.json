@@ -20,8 +20,7 @@
  {
   "name": "888 Plaza",
   "lat": 1.437815,
-  "lng": 103.795301,
-  "detail": "888 Woodlands Drive 50"
+  "lng": 103.79529
  },
  {
   "name": "Admiralty Place",
@@ -150,7 +149,7 @@
  },
  {
   "name": "Buangkok Square Mall",
-  "lat": 1.3843,
+  "lat": 1.384299,
   "lng": 103.881618,
   "detail": "991 Buangkok Link"
  },
@@ -228,8 +227,7 @@
  {
   "name": "Changi City Point",
   "lat": 1.334034,
-  "lng": 103.963045,
-  "detail": "5 Changi Business Park Central 1"
+  "lng": 103.963045
  },
  {
   "name": "City Plaza",
@@ -268,8 +266,8 @@
  },
  {
   "name": "Compass One",
-  "lat": 1.392028,
-  "lng": 103.89507,
+  "lat": 1.392017,
+  "lng": 103.894956,
   "detail": "1 Sengkang Square"
  },
  {
@@ -285,18 +283,6 @@
   "detail": "587 Bukit Timah Road"
  },
  {
-  "name": "Crown Centre",
-  "lat": 1.323032,
-  "lng": 103.811161,
-  "detail": "557 Bukit Timah Road"
- },
- {
-  "name": "Cuppage Plaza",
-  "lat": 1.302039,
-  "lng": 103.840736,
-  "detail": "5 Koek Road"
- },
- {
   "name": "Dairy Farm Mall",
   "lat": 1.366014,
   "lng": 103.775027
@@ -308,8 +294,8 @@
  },
  {
   "name": "Dawson Place",
-  "lat": 1.292706,
-  "lng": 103.811014,
+  "lat": 1.292671,
+  "lng": 103.811096,
   "detail": "57 Strathmore Avenue"
  },
  {
@@ -359,11 +345,6 @@
   "lng": 103.85865
  },
  {
-  "name": "E! Hub",
-  "lat": 1.375988,
-  "lng": 103.955592
- },
- {
   "name": "East Point",
   "lat": 1.342727,
   "lng": 103.952987,
@@ -393,8 +374,8 @@
  },
  {
   "name": "Fairprice Hub",
-  "lat": 1.3261,
-  "lng": 103.678367,
+  "lat": 1.326046,
+  "lng": 103.678378,
   "detail": "1 Joon Koon Circle"
  },
  {
@@ -445,14 +426,14 @@
  },
  {
   "name": "Gek Poh Shopping Centre",
-  "lat": 1.349059,
+  "lat": 1.349054,
   "lng": 103.697726,
   "detail": "762 Jurong West Street 75"
  },
  {
   "name": "GR.ID",
-  "lat": 1.300095,
-  "lng": 103.849288,
+  "lat": 1.300133,
+  "lng": 103.849328,
   "detail": "1 Selegie Road"
  },
  {
@@ -498,7 +479,7 @@
  {
   "name": "HDB Hub",
   "lat": 1.331993,
-  "lng": 103.848495,
+  "lng": 103.848482,
   "detail": "480 Lorong 6 Toa Payoh"
  },
  {
@@ -533,8 +514,8 @@
  },
  {
   "name": "Hougang 1",
-  "lat": 1.3757,
-  "lng": 103.879517,
+  "lat": 1.375706,
+  "lng": 103.879514,
   "detail": "1 Hougang Street 91"
  },
  {
@@ -620,8 +601,7 @@
  {
   "name": "Joo Chiat Complex",
   "lat": 1.315894,
-  "lng": 103.898395,
-  "detail": "1 Joo Chiat Road"
+  "lng": 103.898395
  },
  {
   "name": "Jubilee Square",
@@ -649,8 +629,8 @@
  },
  {
   "name": "Jurong Point",
-  "lat": 1.33956,
-  "lng": 103.705764,
+  "lat": 1.33955,
+  "lng": 103.705772,
   "detail": "1 Jurong West Central 2"
  },
  {
@@ -698,12 +678,6 @@
   "lat": 1.314653,
   "lng": 103.894811,
   "detail": "11 Tanjong Katong Road"
- },
- {
-  "name": "King's Arcade",
-  "lat": 1.32328,
-  "lng": 103.810715,
-  "detail": "559 Bukit Timah Road"
  },
  {
   "name": "Knightsbridge",
@@ -769,8 +743,8 @@
  },
  {
   "name": "MacPherson Mall",
-  "lat": 1.331808,
-  "lng": 103.879374,
+  "lat": 1.331794,
+  "lng": 103.879358,
   "detail": "MacPherson Road"
  },
  {
@@ -800,7 +774,7 @@
   "detail": "6 Raffles Boulevard"
  },
  {
-  "name": "Marsiling Mall",
+  "name": "Marsiling Mall Hawker Centre",
   "lat": 1.433549,
   "lng": 103.77996,
   "detail": "4 Woodlands Street 12"
@@ -866,8 +840,8 @@
  },
  {
   "name": "Odeon Katong Shopping Complex",
-  "lat": 1.304691,
-  "lng": 103.901913,
+  "lat": 1.304686,
+  "lng": 103.901932,
   "detail": "Mountbatten Road"
  },
  {
@@ -902,8 +876,8 @@
  },
  {
   "name": "Orchard Gateway @ Emerald",
-  "lat": 1.301614,
-  "lng": 103.838867,
+  "lat": 1.301653,
+  "lng": 103.838868,
   "detail": "218 Orchard Road"
  },
  {
@@ -956,8 +930,8 @@
  },
  {
   "name": "Parklane Shopping Mall",
-  "lat": 1.300654,
-  "lng": 103.849442,
+  "lat": 1.300663,
+  "lng": 103.849441,
   "detail": "35 Selegie Road"
  },
  {
@@ -997,8 +971,8 @@
  },
  {
   "name": "Pioneer Mall",
-  "lat": 1.341694,
-  "lng": 103.697188,
+  "lat": 1.341702,
+  "lng": 103.697179,
   "detail": "638 Jurong West Street 61"
  },
  {
@@ -1082,6 +1056,11 @@
   "lng": 103.84322
  },
  {
+  "name": "Scotts Square",
+  "lat": 1.305834,
+  "lng": 103.832933
+ },
+ {
   "name": "Sembawang Shopping Centre",
   "lat": 1.441897,
   "lng": 103.824931,
@@ -1092,12 +1071,6 @@
   "lat": 1.383203,
   "lng": 103.892255,
   "detail": "70 Compassvale Bow"
- },
- {
-  "name": "Serene Centre",
-  "lat": 1.322523,
-  "lng": 103.813689,
-  "detail": "10 Jalan Serene"
  },
  {
   "name": "Shaw House",
@@ -1163,8 +1136,8 @@
  },
  {
   "name": "Sun Plaza",
-  "lat": 1.44819,
-  "lng": 103.819501,
+  "lat": 1.448193,
+  "lng": 103.819515,
   "detail": "30 Sembawang Drive"
  },
  {
@@ -1251,8 +1224,8 @@
  },
  {
   "name": "The Cathay",
-  "lat": 1.299525,
-  "lng": 103.847665,
+  "lat": 1.299481,
+  "lng": 103.847657,
   "detail": "2 Handy Road"
  },
  {
@@ -1260,6 +1233,11 @@
   "lat": 1.301901,
   "lng": 103.839812,
   "detail": "176 Orchard Road"
+ },
+ {
+  "name": "The Centris",
+  "lat": 1.339454,
+  "lng": 103.705234
  },
  {
   "name": "The Clementi Mall",
@@ -1284,12 +1262,6 @@
   "lat": 1.302634,
   "lng": 103.83734,
   "detail": "260 Orchard Road"
- },
- {
-  "name": "The Midtown",
-  "lat": 1.370413,
-  "lng": 103.895222,
-  "detail": "1187 Upper Serangoon Road"
  },
  {
   "name": "The Oasis",
@@ -1370,9 +1342,8 @@
  },
  {
   "name": "Valley Point Shopping Centre",
-  "lat": 1.293095,
-  "lng": 103.827054,
-  "detail": "491 River Valley Road"
+  "lat": 1.293116,
+  "lng": 103.827051
  },
  {
   "name": "Velocity @ Novena Square",
