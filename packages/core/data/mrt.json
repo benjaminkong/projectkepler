@@ -150,29 +150,14 @@
   "lng": 103.829712
  },
  {
-  "name": "Cashew MRT Station",
-  "lat": 1.369833,
-  "lng": 103.764234
- },
- {
-  "name": "Cc30",
-  "lat": 1.270387,
-  "lng": 103.83011
- },
- {
-  "name": "Cc31",
+  "name": "Cantonment MRT Station",
   "lat": 1.273048,
   "lng": 103.836977
  },
  {
-  "name": "Cc32",
-  "lat": 1.273235,
-  "lng": 103.846218
- },
- {
-  "name": "Cc9",
-  "lat": 1.317512,
-  "lng": 103.892922
+  "name": "Cashew MRT Station",
+  "lat": 1.369833,
+  "lng": 103.764234
  },
  {
   "name": "Changi Airport MRT Station",
@@ -263,16 +248,6 @@
   "name": "Downtown MRT Station",
   "lat": 1.279553,
   "lng": 103.852771
- },
- {
-  "name": "Dt18",
-  "lat": 1.28265,
-  "lng": 103.8478
- },
- {
-  "name": "Dt4",
-  "lat": 1.354946,
-  "lng": 103.768674
  },
  {
   "name": "Esplanade MRT Station",
@@ -370,6 +345,11 @@
   "lng": 103.892464
  },
  {
+  "name": "Hume MRT Station",
+  "lat": 1.354946,
+  "lng": 103.768674
+ },
+ {
   "name": "Jalan Besar MRT Station",
   "lat": 1.305179,
   "lng": 103.85527
@@ -428,6 +408,11 @@
   "name": "Kent Ridge MRT Station",
   "lat": 1.293487,
   "lng": 103.784575
+ },
+ {
+  "name": "Keppel MRT Station",
+  "lat": 1.270387,
+  "lng": 103.83011
  },
  {
   "name": "Khatib MRT Station",
@@ -560,11 +545,6 @@
   "lng": 103.819495
  },
  {
-  "name": "Ne18",
-  "lat": 1.414963,
-  "lng": 103.910107
- },
- {
   "name": "Newton MRT Station",
   "lat": 1.312764,
   "lng": 103.838114
@@ -621,8 +601,8 @@
  },
  {
   "name": "Paya Lebar MRT Station",
-  "lat": 1.317825,
-  "lng": 103.892201
+  "lat": 1.317721,
+  "lng": 103.892441
  },
  {
   "name": "Pending LRT Station",
@@ -650,9 +630,19 @@
   "lng": 103.869001
  },
  {
+  "name": "Prince Edward Road MRT Station",
+  "lat": 1.273235,
+  "lng": 103.846218
+ },
+ {
   "name": "Promenade MRT Station",
   "lat": 1.293226,
   "lng": 103.860349
+ },
+ {
+  "name": "Punggol Coast MRT Station",
+  "lat": 1.414963,
+  "lng": 103.910107
  },
  {
   "name": "Punggol LRT Station",
@@ -856,8 +846,8 @@
  },
  {
   "name": "Telok Ayer MRT Station",
-  "lat": 1.282212,
-  "lng": 103.848707
+  "lat": 1.282387,
+  "lng": 103.848344
  },
  {
   "name": "Telok Blangah MRT Station",
